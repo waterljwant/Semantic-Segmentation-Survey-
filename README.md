@@ -1,4 +1,10 @@
 # 2D语义分割：
+[x] Fully Convolutional Networks
+
+[x] U-Net
+
+[x] DeepLab 系列
+
 [] 1 Refinenet
 
 [] 2 FRRN(Full resolution residual network)
