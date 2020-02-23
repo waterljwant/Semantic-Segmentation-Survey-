@@ -1,4 +1,14 @@
 # 2D语义分割：
+
+## 经典的传统方法
+
+[x] Semantic texton forests for image categorization and segmentation (CVPR2008)
+
+[x] A Pylon Model for Semantic Segmentation (nips2011)
+
+
+## Deep learning based approaches
+
 [x] Fully Convolutional Networks
 
 [x] U-Net
