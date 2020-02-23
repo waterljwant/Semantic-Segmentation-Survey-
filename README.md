@@ -5,11 +5,11 @@
 
 [x] DeepLab 系列
 
-[] 1 Refinenet
+[ ] 1 Refinenet
 
-[] 2 FRRN(Full resolution residual network)
+[ ] 2 FRRN(Full resolution residual network)
 
-[] 3 ERFNet
+[ ] 3 ERFNet
 
 
 # 三维语义分割：
