@@ -59,3 +59,11 @@
 
 [] 5 ScanComplete: Large-Scale Scene Completion and Semantic Segmentation for 3D Scans
 
+
+# 形状补全与语义分割的联合学习
+[x] 3D scene understanding by voxel-CRF (ICCV2013)
+
+[x] Joint 3D scene reconstruction and class segmentation (CVPR2013)
+
+[x] Large-scale semantic 3d reconstruction: an adaptive multi-resolution model for multi-class volumetric labeling (CVPR2016)
+
