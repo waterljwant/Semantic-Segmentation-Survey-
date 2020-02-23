@@ -42,6 +42,8 @@
 
 6 SEGCloud: Semantic Segmentation of 3D Point Clouds
 
+Data-driven contextual modeling for 3d scene understanding
+
 
 ## 基于体素的语义分割
 
