@@ -13,6 +13,10 @@
 
 [x] U-Net
 
+[x] UNet++: Redesigning Skip Connections to Exploit Multiscale Features in Image Segmentation[J]. IEEE Transactions on Medical Imaging, 2019.
+
+[X] 3D Unet, V-Net (U-Net的3D 版本)
+
 [x] DeepLab 系列
 
 [ ] 1 Refinenet
