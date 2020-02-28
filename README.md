@@ -63,15 +63,15 @@
 
 ## 基于体素的语义分割
 
-1 VoxSegNet: Volumetric CNNs for Semantic Part Segmentation of 3D Shapes
+[x] VoxSegNet: Volumetric CNNs for Semantic Part Segmentation of 3D Shapes
 
-2 End2End Semantic Segmentation for 3D Indoor Scenes
+[x] End2End Semantic Segmentation for 3D Indoor Scenes
 
-3 Voxel-Based 3D Point Cloud Semantic Segmentation: Unsupervised Geometric and Relationship Featuring vs Deep Learning Methods
+[x] Voxel-Based 3D Point Cloud Semantic Segmentation: Unsupervised Geometric and Relationship Featuring vs Deep Learning Methods
 
-4 Volumetric Semantic Segmentation using Pyramid Context Features
+[x] Volumetric Semantic Segmentation using Pyramid Context Features
 
-[] 5 ScanComplete: Large-Scale Scene Completion and Semantic Segmentation for 3D Scans
+[x] 5 ScanComplete: Large-Scale Scene Completion and Semantic Segmentation for 3D Scans
 
 
 # 形状补全与语义分割的联合学习
